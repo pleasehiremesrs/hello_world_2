@@ -1,2 +1,2 @@
-# hello_world_2
-My first project! A simple little thing to print Hello World and sanity check.
+## Baby's first program!!
+I'm such a great programmer surely I know how to write a Hello World program >>>:)
